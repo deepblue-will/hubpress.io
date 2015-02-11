@@ -12,5 +12,3 @@ write with Markdown
     
 - list1
 - list2
-
-[my blog](http://select-aster)
