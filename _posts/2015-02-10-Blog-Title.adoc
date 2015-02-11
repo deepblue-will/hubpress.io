@@ -1,5 +1,6 @@
 = Blog Title
 
+:published_at: 2015-02-10
 :hp-tags: test, test2
 
 ## HubPress test
