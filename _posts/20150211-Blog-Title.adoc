@@ -1,0 +1,16 @@
+= Blog Title
+
+:published_at: 2015/02/11
+
+:hp-tags: test, test2
+
+## HubPress test
+
+write with Markdown
+ 
+ 	aaaabbbccc
+    
+- list1
+- list2
+
+[my blog](http://select-aster)
