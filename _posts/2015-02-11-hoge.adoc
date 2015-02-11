@@ -1,4 +1,4 @@
 # hoge
-:published_at: 2015/02/11
+:published_at: 2015-02-11
 
 aaaafdaeafdaafeaefd
